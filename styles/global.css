@@ -41,10 +41,11 @@ h1 {
     border-radius: 30px;
     height: 30px;
     width: 50px;
-    transform: scale(1,1);
+    /*transform: scale(1,1);*/
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right:5%;
 }
 .toolbar:hover .top-icon {
     transition: 0.5s ease;
@@ -199,7 +200,7 @@ img {
 
 .inner-project-text{
 	padding: 5%;
-	font-size: 3rem;
+	font-size: 2rem;
 }
 .inner-project-text-p {
 	padding: 0 5%;
